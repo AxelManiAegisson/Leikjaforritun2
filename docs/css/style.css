@@ -1,0 +1,79 @@
+@font-face {
+	src: url(../font/Pixeled.ttf);
+	font-family: 'Pixeled';
+}
+
+body {
+	background: black;
+	color: white;
+	margin: 0;
+	overflow-x: hidden;
+}
+
+.title {
+	top: 0;
+	margin-top: -2em;
+	width: 100%;
+	text-align: center;
+	font-size: 3em;
+	color: #CC9E5C;
+	font-family: 'Pixeled';
+}
+
+.options {
+	width: 100%;
+	text-align: center;
+}
+
+.options li {
+	font-size: 2em;
+	list-style-type: none;
+	padding: 10px;
+	font-family: Arial;
+	color: #999;
+	cursor: pointer;
+}
+
+.options li:hover {
+	color: white;
+}
+
+.big li {
+	font-size: 3em;
+	color: red;
+}
+
+.main {
+	width: 100%;
+	height: 92.5vh;
+	position: fixed;
+	top: 0;
+	z-index: 0;
+}
+
+.options a {
+	text-decoration: none;
+	color: #999;
+}
+
+.options a:hover {
+	color: white;
+}
+
+.content {
+	border-top: 5px solid #999;
+	font-family: Arial;
+	position: absolute;
+	width: 100%;
+	margin-top: 92.5vh;
+	background: #eee;
+	color: black;
+	padding: 0;
+	height: 100vh;
+	z-index: 999;
+
+}
+
+.content h1, h3 {
+	text-align: center;
+}
