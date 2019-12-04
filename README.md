@@ -12,5 +12,8 @@ Maður stjórnar geimskipi og skítur óvini. Lendir á plánetu til að fá eld
 ## Myndband
 Trailer fyrir fyrstu útgáfu: https://youtu.be/meKBS90ammc (video'ið er klippt pínu svo þú þurfir ekki að horfa á 10 mínútur á leikinn búa til nýjan heim)
 
+### Myndband 2
+https://www.youtube.com/watch?v=6EuWSr093YQ
+
 ## Vefsíða
 https://axelmaniaegisson.github.io/Leikjaforritun2/
